@@ -18,8 +18,5 @@ jobs:
         type: git
         app: maviurl
         environment: maviurl
-        username: ${{ secrets.APTIBLE_USERNAME }}
-        password: ${{ secrets.APTIBLE_PASSWORD }}
-      env:
-        username: ${{ secrets.APTIBLE_USERNAME }}
-        password: ${{ secrets.APTIBLE_PASSWORD }}
+        username: araaradeepfake@gmail.com
+        password: Kannanmon123
