@@ -1,3 +1,0 @@
-before_release:
-  - pip3 install -r requirments.txt
-  - bash start.sh
