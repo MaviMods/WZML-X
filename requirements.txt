@@ -1,5 +1,6 @@
 aiohttp
 qbittorrent
+qbittorrent-api
 aiofiles
 aioshutil
 anytree==2.8.0
