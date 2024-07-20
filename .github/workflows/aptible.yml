@@ -20,3 +20,6 @@ jobs:
         environment: maviurl
         username: ${{ secrets.APTIBLE_USERNAME }}
         password: ${{ secrets.APTIBLE_PASSWORD }}
+      env:
+        username: ${{ secrets.APTIBLE_USERNAME }}
+        password: ${{ secrets.APTIBLE_PASSWORD }}
