@@ -1,5 +1,5 @@
 aiohttp
-qbittorrent-nox
+git+https://github.com/qbittorrent/docker-qbittorrent-nox.git
 qbittorrent
 aiofiles
 aioshutil
