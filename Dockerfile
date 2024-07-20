@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM mysterysd/wzmlx:lastest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
