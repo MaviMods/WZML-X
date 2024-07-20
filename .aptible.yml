@@ -1,0 +1,2 @@
+before_release:
+  - bash start.sh
